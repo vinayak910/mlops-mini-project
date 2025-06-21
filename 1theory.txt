@@ -1,0 +1,23 @@
+Will apply all things on our project we learned till now and should be in logically connected manner 
+
+
+
+Guide : 
+-----------
+
+- cookie cutter cmd : cookiecutter -c v1 http://github.com.drivendata/cookiecutter-data-science
+
+    - delete all files of .py (we will make custom)
+    - models to model
+
+- venv
+    - python -m venv myenv
+    - myenv\Scripts\activate
+
+
+- github 
+    - git init
+    - create github repo 
+- mlflow on daghub 
+
+
